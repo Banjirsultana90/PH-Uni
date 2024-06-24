@@ -3,7 +3,7 @@ import {
   TCourse,
   TCoursefaculty,
   TPreRequisiteCourses,
-} from './courses.interface';
+} from './course/courses.interface';
 
 const preRequisiteCoursesSchema = new Schema<TPreRequisiteCourses>(
   {

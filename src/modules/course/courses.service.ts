@@ -1,6 +1,6 @@
 import QueryBuilders from "../app/builders/QuerryBuilders"
-import { CourseSearchableFields } from "./courses.const"
-import { TCourse } from "./courses.interface"
+import { CourseSearchableFields } from "./course/courses.const"
+import { TCourse } from "./course/courses.interface"
 import { Course } from "./courses.model"
 
 
